@@ -1,6 +1,6 @@
 {
   "name": "integer-bit-length",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "repository": "cstruct/node-integer-bit-length",
   "author": "Albin Mattsson <albin@mattsson.io>",
